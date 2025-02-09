@@ -2,7 +2,7 @@
 
 In this homework assignment, you will implement a few string manipulation functions. It is known that these methods are available from existing libraries and with the C++ string class. However, you are to implement your own versions of these functions. This homework assignment is still 'C-like' since C++ classes have not yet been covered in the course. 
 
-You will be using pointers to character arrays and treating them like string literals. When dealing with string literals, it is important that after the last character, there is a null character `'\0'`. The null character indicates the end of the string of characters and is vital when using functions such as `strlen()`.
+You will be using character arrays and treating them like string literals. When dealing with string literals, it is important that after the last character, there is a null character `'\0'`. The null character indicates the end of the string of characters and is vital when using functions such as `strlen()`.
 
 In this assignment, `const` is used for pointers and data. Check parameters of the functions.
 
